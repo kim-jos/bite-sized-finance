@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930851589581",
+    "project_id": "bite-sized-finance-h0fl9m",
+    "storage_bucket": "bite-sized-finance-h0fl9m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930851589581:android:2c6d8d4c04af3ecd6d8884",
+        "android_client_info": {
+          "package_name": "com.mycompany.bitesizedfinance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgb3yxrSUm4AfDesy_Sr641FPog-icQtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
